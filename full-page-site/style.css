@@ -1,0 +1,33 @@
+* {
+	box-sizing: border-box;
+}
+body, main, figure {
+	margin: 0;
+}
+
+header, footer {
+	position: fixed;
+	padding: 15px;
+
+	display: flex;
+	justify-content: space-between;
+
+	background: rgba(0,0,0,0.8);
+	width: 100%;
+	color: white;
+}
+
+header {
+	top: 0;
+}
+
+footer {
+	bottom: 0;
+}
+
+main {
+	height: 100vh;
+	width: 100vw;
+	background: url("http://40.media.tumblr.com/tumblr_mdozc2YDfa1r6wmavo1_1280.jpg") center center no-repeat;
+	background-size: cover;
+}
