@@ -9,7 +9,7 @@ nav {display:-webkit-flex;flex-direction:row;justify-content:space-between;align
 nav ul {display:-webkit-flex;flex-direction:row;}
 nav a {padding:25px 30px;}
 nav p {padding-left:15px;}
-object {background:url('https://raw.githubusercontent.com/juliancoleman/CIT-85/master/07-Long%20Bike%20Ride/background.jpg') center center no-repeat;height:800px;position:fixed;}
+object {background:url('http://content.bikeroar.com/system/content/000/087/968/original/Long_Range_Cycling_the_big_one.jpg?1389884481') center center no-repeat;height:800px;position:fixed;}
 main {position:absolute;top:790px;background:#fff;}
 section {padding:15px;}
 footer {background:rgb(34,34,34);padding:45px;color:#fff;}
